@@ -1,44 +1,49 @@
-<h2 align="left">Hi 👋! My name is Mohamed Elmowafy, and I'm a Junior Business Intelligence & ETL Developer from Cairo, Egypt</h2>
+# 💫 About Me
+Hi! I’m **Mohamed Elmowafy**.  
+🔭 Currently working on **Data Engineering projects, ETL pipelines, and automation with Informatica**  
+👯 Looking to collaborate on **open-source data projects, data warehouse optimizations, and analytics solutions**  
+🤝 Seeking guidance on **advanced big data integrations and cloud-based data engineering challenges**  
+🌱 Learning **cloud platforms (AWS & Azure), Spark, and real-time data streaming**  
+💬 Ask me about **Informatica, SQL, data modeling, ETL best practices, and data warehousing**  
+⚡ Fun Fact: Built an ETL pipeline that **processed millions of records in under 5 minutes!**
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedElmowafy19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedElmowafy19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🌐 Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MohamedElmowafy)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elmowafy19)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-elmowafy-131357255/)  
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@elmowafy195)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedessamelmowafy@gmail.com)
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 💻 Tech Stack
 
-###
+**Languages & Libraries:**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-plain.svg" height="30" alt="sql server logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/informatica/informatica-original.svg" height="30" alt="informatica logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="30" alt="powerbi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="30" alt="excel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-</div>
+**Databases:**  
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-###
+**Cloud & Tools:**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Informatica](https://img.shields.io/badge/Informatica-FF66CC?style=for-the-badge&logo=informatica&logoColor=white)
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
-</div>
+---
 
-###
+## 📊 GitHub Stats
 
-<br clear="both">
+![](https://github-readme-stats.vercel.app/api?username=MohamedElmowafy19&theme=dark&include_all_commits=true&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=MohamedElmowafy19&theme=dark)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElmowafy19&theme=dark&include_all_commits=true&layout=compact)
 
-<img src="https://raw.githubusercontent.com/MohamedElmowafy19/MohamedElmowafy19/output/snake.svg" alt="Snake animation" />
+---
+
+## 🏆 Achievements
+- Built **ETL pipelines processing millions of records in under 5 minutes**  
+- Optimized **data warehouses and analytics solutions**  
+- Collaborated on **open-source data engineering projects**
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=MohamedElmowafy19&icon=0&color=0)](https://visitcount.itsvg.in)
